@@ -55,7 +55,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/hostel-fee-reminder.git
+git clone https://github.com/Alekhya51/hostel-fee-reminder.git
 ```
 
 This command downloads the project to your computer.
