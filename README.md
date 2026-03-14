@@ -121,3 +121,13 @@ Now the Hostel Fee Reminder System dashboard will appear.
 * Online payment integration
 * Admin login system
 * Better dashboard UI
+## Project Screenshots
+
+### Dashboard
+
+![Dashboard](dashboard.png)
+
+### Add Student Page
+
+![Add Student](add-student.png)
+
