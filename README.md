@@ -131,3 +131,5 @@ Now the Hostel Fee Reminder System dashboard will appear.
 
 ![Add Student](add-student.png)
 
+### Remainder mail
+![email](email.png)
